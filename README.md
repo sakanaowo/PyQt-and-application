@@ -1,3 +1,3 @@
-# PyQt-and-application-
+# PyQt-and-application
 self-learning :D
 EHEHHE
