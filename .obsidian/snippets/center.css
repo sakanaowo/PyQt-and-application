@@ -1,5 +1,9 @@
-img[alt*="center"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+div[src$="#right"] {
+  text-align:right;
+}
+div[src$="#left"] {
+  text-align:left;
+}
+div[src$="#center"] {
+  text-align:center;
 }

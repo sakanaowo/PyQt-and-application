@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md",
+                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md",
+                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md",
+                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md"
+                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md"
               }
             }
           }
@@ -146,16 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a673f1b32c807056",
+  "active": "0f67917a709fb3ae",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
+    "Beginning PyQt/Chapter 3",
     "Beginning PyQt/Chapter 2/2. User profile GUI.md",
-    "README.md",
+    "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
     "Beginning PyQt/Chapter 1/4. First GUI.md",
-    "Beginning PyQt/Chapter 2",
+    "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
     "Beginning PyQt/Chapter 1/3. Introduction to user interface.md",
     "Beginning PyQt/Chapter 1/2. Installing Python 3 and PyQt6.md",
     "Beginning PyQt/Chapter 1/1. PyQt Framework.md",
+    "README.md",
+    "Beginning PyQt/Chapter 2",
     "Beginning PyQt/Chapter 1",
     "Beginning PyQt"
   ]
