@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "feb0f0dff3ee8b6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beginning PyQt/Chap 1/4. First GUI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8a5c109074440d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a673f1b32c807056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
+                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
+                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
+                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/1. The QLabel widget.md"
+                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md"
               }
             }
           }
@@ -173,15 +148,15 @@
   },
   "active": "a673f1b32c807056",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 2/Untitled 1.md",
-    "README.md",
     "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
-    "Beginning PyQt/Chap 1/4. First GUI.md",
+    "Beginning PyQt/Chapter 2/2. User profile GUI.md",
+    "README.md",
+    "Beginning PyQt/Chapter 1/4. First GUI.md",
     "Beginning PyQt/Chapter 2",
-    "Beginning PyQt/Chap 1/3. Introduction to user interface.md",
-    "Beginning PyQt/Chap 1/2. Installing Python 3 and PyQt6.md",
-    "Beginning PyQt/Chap 1/1. PyQt Framework.md",
-    "Beginning PyQt/Chap 1",
+    "Beginning PyQt/Chapter 1/3. Introduction to user interface.md",
+    "Beginning PyQt/Chapter 1/2. Installing Python 3 and PyQt6.md",
+    "Beginning PyQt/Chapter 1/1. PyQt Framework.md",
+    "Beginning PyQt/Chapter 1",
     "Beginning PyQt"
   ]
 }
