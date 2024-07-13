@@ -6,3 +6,4 @@ Trong PyQt, event handling - xử lý sự kiện sẽ được xử lý theo 1 
 - [Signal and slot ](https://phocode.com/qt-5-c/qt-5-c-co-che-hoat-dong-cua-signal-va-slot/):
 
 [README](README.md)
+[sự kiện](sự%20kiện.md)
