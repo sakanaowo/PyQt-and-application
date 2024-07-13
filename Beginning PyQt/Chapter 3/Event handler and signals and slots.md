@@ -3,4 +3,6 @@ Khi hàm `exec()` được gọi thì app sẽ nhận dạng và xử lý cho đ
 Trong PyQt, event handling - xử lý sự kiện sẽ được xử lý theo 1 trong 2 cách:
 - Event handler:
 	- Quản lý các sự kiện
-- Signal and slot 
+- [Signal and slot ](https://phocode.com/qt-5-c/qt-5-c-co-che-hoat-dong-cua-signal-va-slot/):
+
+[README](README.md)
