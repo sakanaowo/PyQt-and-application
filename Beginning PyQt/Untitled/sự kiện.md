@@ -1,0 +1,1 @@
+các đối tượng được tạo từ QEvent
