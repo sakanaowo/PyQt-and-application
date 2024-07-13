@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
+                "file": "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
+                "file": "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
+                "file": "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md"
+                "file": "Beginning PyQt/Chapter 3/Event handler and signals and slots.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "a673f1b32c807056",
   "lastOpenFiles": [
+    "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
     "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
     "Beginning PyQt/Chapter 3/Untitled/sự kiện.md",
     "README.md",
-    "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
     "Beginning PyQt/Chapter 3/Untitled",
     "Beginning PyQt/Chapter 1/1. PyQt Framework.md",
     "Beginning PyQt/Chapter 1/2. Installing Python 3 and PyQt6.md",

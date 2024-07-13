@@ -4,5 +4,3 @@ Trong PyQt, event handling - xử lý sự kiện sẽ được xử lý theo 1 
 - Event handler:
 	- Quản lý các sự kiện
 - [Signal and slot ](https://phocode.com/qt-5-c/qt-5-c-co-che-hoat-dong-cua-signal-va-slot/):
-
-[2. Installing Python 3 and PyQt6](2.%20Installing%20Python%203%20and%20PyQt6.md)
