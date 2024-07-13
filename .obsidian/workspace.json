@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md",
+                "file": "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md",
+                "file": "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 2/2. User profile GUI.md"
+                "file": "Beginning PyQt/Chapter 3/Event handler and signals and slots.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "a673f1b32c807056",
   "lastOpenFiles": [
-    "README.md",
-    "Beginning PyQt/Chapter 2/2. User profile GUI.md",
-    "Pasted image 20240712220513.png",
-    "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
-    "Beginning PyQt/Chapter 3",
-    "Beginning PyQt/Chapter 1/4. First GUI.md",
-    "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
-    "Beginning PyQt/Chapter 1/3. Introduction to user interface.md",
-    "Beginning PyQt/Chapter 1/2. Installing Python 3 and PyQt6.md",
     "Beginning PyQt/Chapter 1/1. PyQt Framework.md",
+    "Beginning PyQt/Chapter 1/2. Installing Python 3 and PyQt6.md",
+    "Beginning PyQt/Chapter 1/3. Introduction to user interface.md",
+    "Beginning PyQt/Chapter 1/4. First GUI.md",
+    "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
+    "Beginning PyQt/Chapter 2/2. User profile GUI.md",
+    "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
+    "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
+    "README.md",
+    "Pasted image 20240712220513.png",
+    "Beginning PyQt/Chapter 3",
     "Beginning PyQt/Chapter 2",
     "Beginning PyQt/Chapter 1",
     "Beginning PyQt"
