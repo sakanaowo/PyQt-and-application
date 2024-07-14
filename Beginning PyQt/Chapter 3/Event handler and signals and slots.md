@@ -3,4 +3,9 @@ Khi hàm `exec()` được gọi thì app sẽ nhận dạng và xử lý cho đ
 Trong PyQt, event handling - xử lý sự kiện sẽ được xử lý theo 1 trong 2 cách:
 - Event handler:
 	- Quản lý các sự kiện
-- [Signal and slot ](https://phocode.com/qt-5-c/qt-5-c-co-che-hoat-dong-cua-signal-va-slot/):
+- [Signal and slot ](https://phocode.com/qt-5-c/qt-5-c-co-che-hoat-dong-cua-signal-va-slot/)
+Mỗi lớp PyQt có signal riêng và trong đó các tín hiệu được kế thừa từ lớp cha. Ví dụ: mỗi lần người dùng bấm một nút trong cửa sổ thì sẽ phát ra một tín hiệu:
+```lua
+button.clicked.connect(self.buttonClicked)
+```
+Ở đây, nút là một widget và `clicked` là một tín hiệu. Để sử dụng tín hiệu, ta phải sử dụng `connect()` để gọi hàm mà trong trường hợp trên là `buttonClicked`. Hàm `buttonClicked()` sẽ thực hiện một số hành động
