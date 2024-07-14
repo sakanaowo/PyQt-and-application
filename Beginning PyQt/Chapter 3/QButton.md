@@ -1,4 +1,5 @@
 Thường được sử dụng để thực hiện các hành động và đưa ra các lựa chọn.
+
 Khi click vào QButton widget, tín hiệu được gửi để kết nối tới hàm, đưa ra các nút 'OK','Next', ... nhưng ta cũng có thể tạo ra các nút riêng với icon riêng, text riêng
 
 ---

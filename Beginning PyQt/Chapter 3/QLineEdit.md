@@ -1,6 +1,7 @@
-Dùng để thu thập, sửa đổi dữ liệu
-Còn có thể ẩn văn bản khi đã enter bằng placeholder 
+Dùng để thu thập, sửa đổi dữ liệu. Còn có thể ẩn văn bản khi đã enter bằng placeholder
+
 note: nếu cần nhập nhiều dòng dữ liệu thì nên dùng QTextEdit
+
 ![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240714203212.png?raw=true)
 
 ### <span style="color:rgb(0, 176, 240)">Thiết lập MainWindow </span>
