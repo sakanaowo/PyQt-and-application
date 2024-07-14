@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/QLineEdit.md",
+                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/QLineEdit.md",
+                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/QLineEdit.md",
+                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/QLineEdit.md"
+                "file": "Beginning PyQt/Chapter 2/Tóm tắt chap.md"
               }
             }
           }
@@ -150,17 +150,17 @@
   "active": "a673f1b32c807056",
   "lastOpenFiles": [
     "Beginning PyQt/Chapter 2/2. User profile GUI.md",
-    "Beginning PyQt/Chapter 3/QLineEdit.md",
-    "Beginning PyQt/Chapter 3/QButton.md",
-    "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
+    "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
     "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
+    "Beginning PyQt/Chapter 3/Event handler and signals and slots.md",
+    "Beginning PyQt/Chapter 3/QButton.md",
+    "Beginning PyQt/Chapter 3/QLineEdit.md",
     "Image/Pasted image 20240714203129.png",
     "Image/Pasted image 20240714203221.png",
     "Image/Pasted image 20240714203212.png",
     "Image/Pasted image 20240714203143.png",
     "Image/Pasted image 20240714203104.png",
     "Image",
-    "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
     "Beginning PyQt/Chapter 3/Untitled/sự kiện.md",
     "README.md",
     "Beginning PyQt/Chapter 3/Untitled",
