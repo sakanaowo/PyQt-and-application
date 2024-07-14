@@ -129,5 +129,3 @@ if __name__ == '__main__':
 ```
 
 ![](Pasted%20image%2020240714203221.png)
-
-hehe
