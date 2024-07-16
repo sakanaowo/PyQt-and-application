@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/5. QMessageBox.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/5. QMessageBox.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/5. QMessageBox.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/5. QMessageBox.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "a673f1b32c807056",
   "lastOpenFiles": [
-    "README.md",
     "Beginning PyQt/Chapter 3/5. QMessageBox.md",
+    "README.md",
     "Image/Pasted image 20240716175325.png",
     "Image/Pasted image 20240716175131.png",
     "Image/Pasted image 20240716175019.png",
