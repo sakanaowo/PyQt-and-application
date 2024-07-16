@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
-    "center"
-  ]
+    "center",
+    "background"
+  ],
+  "accentColor": "",
+  "cssTheme": "background"
 }
