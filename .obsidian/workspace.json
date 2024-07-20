@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Beginning PyQt/Chapter 3/Project Login and Registration.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://private-user-images.githubusercontent.com/131884955/348526232-707988d6-7aec-4831-8a12-5f58f7268476.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA5NjM3OTUsIm5iZiI6MTcyMDk2MzQ5NSwicGF0aCI6Ii8xMzE4ODQ5NTUvMzQ4NTI2MjMyLTcwNzk4OGQ2LTdhZWMtNDgzMS04YTEyLTVmNThmNzI2ODQ3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxNFQxMzI0NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNzNmNDgwOTY1NDM2NzRjMjRmZWUyNzM2NjEyODlkMDZhZjIxMDJmMTZmYWYwY2JiYmY2ODg2MDZjNThkOTk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kGqE_jBxbeyvYOfqCB8YDL2Bw-L3oz0oEBLWUq671TU)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Beginning PyQt/Chapter 3/Project Login and Registration.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Beginning PyQt/Chapter 3/Project Login and Registration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Beginning PyQt/Chapter 3/Project Login and Registration.md"
               }
             }
           }
@@ -149,7 +149,12 @@
   },
   "active": "a673f1b32c807056",
   "lastOpenFiles": [
+    "Beginning PyQt/Chapter 3/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3/5. QMessageBox.md",
+    "Beginning PyQt/Chapter 3/4. QCheckBox.md",
+    "Beginning PyQt/Chapter 3/Project Login and Registration.md",
+    "Image/Pasted image 20240719152644.png",
+    "Image/Pasted image 20240719152526.png",
     "README.md",
     "Image/Pasted image 20240716175325.png",
     "Image/Pasted image 20240716175131.png",
@@ -162,13 +167,9 @@
     "Untitled.canvas",
     "Image/Pasted image 20240716162759.png",
     "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
-    "Beginning PyQt/Chapter 3/4. QCheckBox.md",
-    "Beginning PyQt/Chapter 3/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3/2. QButton.md",
     "Beginning PyQt/Chapter 3/1. Event handler and signals and slots.md",
     "Image/Pasted image 20240716154429.png",
-    "Image/Pasted image 20240716151451.png",
-    "Pasted image 20240716151239.png",
     "Beginning PyQt/Chapter 2/2. User profile GUI.md",
     "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
     "Image",
