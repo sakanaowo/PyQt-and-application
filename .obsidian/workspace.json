@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/Project Login and Registration.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/Trình quản lý bố cục và absolute positioning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/Project Login and Registration.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/Trình quản lý bố cục và absolute positioning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/Project Login and Registration.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/Trình quản lý bố cục và absolute positioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 3/Project Login and Registration.md"
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/Trình quản lý bố cục và absolute positioning.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "a673f1b32c807056",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 3/3. QLineEdit.md",
-    "Beginning PyQt/Chapter 3/5. QMessageBox.md",
-    "Beginning PyQt/Chapter 3/4. QCheckBox.md",
-    "Beginning PyQt/Chapter 3/Project Login and Registration.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện íh/Project Login and Registration.md",
+    "Beginning PyQt/Chapter 4 Quản lý bố cục/Trình quản lý bố cục và absolute positioning.md",
+    "Beginning PyQt/Chapter 4 Quản lý bố cục",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện íh/3. QLineEdit.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện íh/5. QMessageBox.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện íh/4. QCheckBox.md",
     "Image/Pasted image 20240719152644.png",
     "Image/Pasted image 20240719152526.png",
     "README.md",
@@ -167,19 +169,19 @@
     "Untitled.canvas",
     "Image/Pasted image 20240716162759.png",
     "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
-    "Beginning PyQt/Chapter 3/2. QButton.md",
-    "Beginning PyQt/Chapter 3/1. Event handler and signals and slots.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện íh/2. QButton.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện íh/1. Event handler and signals and slots.md",
     "Image/Pasted image 20240716154429.png",
     "Beginning PyQt/Chapter 2/2. User profile GUI.md",
     "Beginning PyQt/Chapter 2/Tóm tắt chap.md",
     "Image",
-    "Beginning PyQt/Chapter 3/Untitled/sự kiện.md",
-    "Beginning PyQt/Chapter 3/Untitled",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện íh/Untitled/sự kiện.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện íh/Untitled",
     "Beginning PyQt/Chapter 1/1. PyQt Framework.md",
     "Beginning PyQt/Chapter 1/2. Installing Python 3 and PyQt6.md",
     "Beginning PyQt/Chapter 1/3. Introduction to user interface.md",
     "Beginning PyQt/Chapter 1/4. First GUI.md",
-    "Beginning PyQt/Chapter 3",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện íh",
     "Beginning PyQt/Chapter 2",
     "Beginning PyQt/Chapter 1",
     "Beginning PyQt"
