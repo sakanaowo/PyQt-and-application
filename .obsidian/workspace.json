@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5790026c8e0b140b",
@@ -150,7 +149,7 @@
   },
   "active": "a673f1b32c807056",
   "lastOpenFiles": [
-    "Pasted image 20240726182659.png",
+    "Image/Pasted image 20240726182659.png",
     "README.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/Trình quản lý bố cục và absolute positioning.md",
