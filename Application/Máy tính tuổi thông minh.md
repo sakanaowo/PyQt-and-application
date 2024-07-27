@@ -1,3 +1,4 @@
+```python
 import sys  
   
 from PyQt6.QtCore import Qt  
@@ -58,3 +59,4 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)  
     window = inputAge()  
     sys.exit(app.exec())
+```
