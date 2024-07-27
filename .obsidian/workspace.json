@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd3132c2c9f69669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application/Máy tính tuổi thông minh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
+                "file": "Application/Máy tính tuổi thông minh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
+                "file": "Application/Máy tính tuổi thông minh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md"
+                "file": "Application/Máy tính tuổi thông minh.md"
               }
             }
           }
@@ -147,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a673f1b32c807056",
+  "active": "fd3132c2c9f69669",
   "lastOpenFiles": [
-    "Pasted image 20240727220553.png",
+    "Application",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
+    "Application/Máy tính tuổi thông minh.md",
+    "Pasted image 20240727220553.png",
     "Image/Pasted image 20240727220422.png",
     "Image/Pasted image 20240726182659.png",
     "README.md",
