@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md"
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md"
               }
             }
           }
@@ -149,10 +149,13 @@
   },
   "active": "fd3132c2c9f69669",
   "lastOpenFiles": [
+    "Pasted image 20240802185254.png",
+    "Image/Pasted image 20240802154431.png",
+    "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md",
+    "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
     "Image/Pasted image 20240802151341.png",
     "Image/Pasted image 20240802150627.png",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
-    "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md",
     "Image/Pasted image 20240801232423.png",
     "Application/Máy tính tuổi thông minh.md",
     "Application",
@@ -169,8 +172,6 @@
     "Image/Pasted image 20240719152644.png",
     "Image/Pasted image 20240719152526.png",
     "Image/Pasted image 20240716175325.png",
-    "Image/Pasted image 20240716175131.png",
-    "Image/Pasted image 20240716175019.png",
     "2024-07-16.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
