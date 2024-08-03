@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/4. Xây dựng biểu mẫu.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5790026c8e0b140b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/4. Xây dựng biểu mẫu.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/4. Xây dựng biểu mẫu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md"
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/4. Xây dựng biểu mẫu.md"
               }
             }
           }
@@ -149,10 +150,12 @@
   },
   "active": "0f67917a709fb3ae",
   "lastOpenFiles": [
+    "Image/Pasted image 20240803232500.png",
+    "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
+    "Beginning PyQt/Chapter 4 Quản lý bố cục/4. Xây dựng biểu mẫu.md",
     "Image/Pasted image 20240802185254.png",
     "Image/Pasted image 20240802154431.png",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md",
-    "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
     "Image/Pasted image 20240802151341.png",
     "Image/Pasted image 20240802150627.png",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
@@ -171,7 +174,6 @@
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
     "Image/Pasted image 20240719152644.png",
     "Image/Pasted image 20240719152526.png",
-    "Image/Pasted image 20240716175325.png",
     "2024-07-16.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
