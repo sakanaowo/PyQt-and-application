@@ -11,9 +11,11 @@
             "id": "fd3132c2c9f69669",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Image/Pasted image 20240806161422.png"
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image/Pasted image 20240806161422.png",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Image/Pasted image 20240806161422.png",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Image/Pasted image 20240806161422.png"
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md"
               }
             }
           }
@@ -145,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f67917a709fb3ae",
+  "active": "fd3132c2c9f69669",
   "lastOpenFiles": [
-    "Pasted image 20240806161312.png",
     "Image/Pasted image 20240806161422.png",
+    "Pasted image 20240806161312.png",
     "Image/Pasted image 20240806161340.png",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
