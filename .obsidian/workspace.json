@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md"
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md"
               }
             }
           }
@@ -147,13 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f67917a709fb3ae",
+  "active": "fd3132c2c9f69669",
   "lastOpenFiles": [
+    "Pasted image 20240806161422.png",
+    "Pasted image 20240806161340.png",
+    "Pasted image 20240806161312.png",
+    "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
+    "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
     "Image/Pasted image 20240805175900.png",
     "Image/Pasted image 20240805175852.png",
     "Image/Pasted image 20240805175837.png",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/4. Xây dựng biểu mẫu.md",
-    "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md",
     "Image/Pasted image 20240805173250.png",
@@ -162,9 +166,6 @@
     "Image/Pasted image 20240803232500.png",
     "Image/Pasted image 20240802185254.png",
     "Image/Pasted image 20240802154431.png",
-    "Image/Pasted image 20240802151341.png",
-    "Image/Pasted image 20240802150627.png",
-    "Image/Pasted image 20240801232423.png",
     "Application/Máy tính tuổi thông minh.md",
     "Application",
     "README.md",
