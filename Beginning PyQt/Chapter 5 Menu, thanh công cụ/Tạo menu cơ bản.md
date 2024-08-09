@@ -1,0 +1,126 @@
+## <span style="color:rgb(255, 105, 97)">Ví dụ</span> 
+![](Pasted%20image%2020240809170409.png)
+trong ví dụ này, ta sẽ tạo một thanh menu chỉ chứa 1 menu có 1 lệnh duy nhất là _Quit_
+
+### <span style="color:rgb(255, 179, 91)">Khởi tạo</span> 
+```python
+import sys  
+from PyQt6.QtGui import QAction  
+from PyQt6.QtWidgets import QApplication, QMainWindow  
+  
+  
+class MainWindow(QMainWindow):  
+    def __init__(self):  
+        super().__init__()  
+        self.initializeUI()
+        
+    def initializeUI(self):  
+	    """setup app's GUI"""  
+	    self.setMinimumSize(450, 350)  
+	    self.setWindowTitle("Main Window temmplate")  
+	  
+	    self.setupMainWindow()  
+	    self.createActions()  
+	    self.createMenu()  
+	    self.show()
+
+  
+if __name__ == '__main__':  
+    app = QApplication(sys.argv)  
+    window = MainWindow()  
+    sys.exit(app.exec())
+```
+note: 
+- Class MainWindow kế thừa từ `QMainWindow`
+#### <span style="color:rgb(255, 238, 140)">QMainWindow vs. QWidget</span> 
+
+| **Tiêu chí**                | **QWidget**                                                                                | **QMainWindow**                                                                                                               |
+| --------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Vai trò**                 | Lớp cơ sở cho tất cả các widget trong Qt.                                                  | Lớp chuyên dụng cho việc tạo và quản lý cửa sổ chính của ứng dụng.                                                            |
+| **Tính năng**               | Có thể sử dụng để tạo bất kỳ loại widget hoặc cửa sổ nào.                                  | Được thiết kế đặc biệt để tạo cửa sổ chính, hỗ trợ các thành phần như thanh trạng thái, thanh công cụ, menu, và dock widgets. |
+| **Khả năng tuỳ biến**       | Linh hoạt, có thể được sử dụng cho bất kỳ widget tùy chỉnh nào.                            | Cung cấp bố cục chuẩn với các vị trí định sẵn cho thanh công cụ, thanh trạng thái, dock widgets, v.v.                         |
+| **Sử dụng trong giao diện** | Có thể được sử dụng như một widget riêng lẻ hoặc làm cửa sổ chính nếu không có widget cha. | Chủ yếu được sử dụng để tạo cửa sổ chính của ứng dụng.                                                                        |
+| **Thành phần đặc biệt**     | Không có các thành phần đặc biệt.                                                          | Hỗ trợ các thành phần như `QMenuBar`, `QToolBar`, `QStatusBar`, và `QDockWidget`.                                             |
+| **Định nghĩa cấu trúc**     | Tự do định nghĩa và tổ chức bố cục bên trong.                                              | Có các vị trí được định nghĩa sẵn cho các thành phần cụ thể như menu, toolbar, v.v.                                           |
+| **Ví dụ**                   | Sử dụng để tạo các widget đơn giản như nút, hộp văn bản, khung chứa, v.v.                  | Sử dụng để tạo cửa sổ chính của một ứng dụng, nơi người dùng tương tác với các thành phần chính.                              |
+
+- `QWidget` là lớp cơ sở, có thể được sử dụng linh hoạt cho nhiều mục đích khác nhau 
+- `QMainWindow` cung cấp một cấu trúc đã được định nghĩa sẵn để tạo ra cửa sổ chính của ứng dụng với các thành phần tiêu chuẩn như thanh công cụ và menu.
+Cấu trúc bố cục của QMainWindow cơ bản:
+
+![](Pasted%20image%2020240809172257.png#center)
+
+Trong `QMainWindow`, thanh menu được cố định theo chiều ngang dọc theo đỉnh của cửa sổ, trong khi thanh trạng thái nằm ở phía dưới. Thanh công cụ có thể được đặt giữa thanh menu và thanh trạng thái và có thể đặt theo chiều dọc hoặc chiều ngang. Các dock widgets cũng có thể được sắp xếp tương tự.
+
+Widget trung tâm nằm ở giữa cửa sổ phải được thiết lập nếu bạn sử dụng `QMainWindow` làm lớp cơ sở. Ví dụ, bạn có thể sử dụng một widget `QTextEdit` đơn lẻ làm widget chính trong cửa sổ hoặc tạo một đối tượng `QWidget` với các widget khác được sắp xếp bên trong nó.
+
+### <span style="color:rgb(255, 179, 91)">Tạo thanh Menu và thêm các tác vụ</span> 
+```python
+def setupMainWindow(self):  
+    pass  
+  
+def createActions(self):  
+    """create app's menu actions"""  
+    # create action for File menu  
+    self.quit_act = QAction("&Quit")  
+    self.quit_act.setShortcut("Ctrl+Q")  
+    self.quit_act.triggered.connect(self.close)  
+  
+def createMenu(self):  
+    """create app's menu bar"""  
+    self.menuBar().setNativeMenuBar(False)  
+  
+    # create file menu and add actions  
+    file_menu = self.menuBar().addMenu("File")  
+    file_menu.addAction(self.quit_act)
+```
+
+## <span style="color:rgb(255, 105, 97)">Code:</span> 
+```python
+import sys  
+from PyQt6.QtGui import QAction  
+from PyQt6.QtWidgets import QApplication, QMainWindow  
+  
+  
+class MainWindow(QMainWindow):  
+    def __init__(self):  
+        super().__init__()  
+        self.initializeUI()  
+  
+    def initializeUI(self):  
+        """setup app's GUI"""  
+        self.setMinimumSize(450, 350)  
+        self.setWindowTitle("Main Window temmplate")  
+  
+        self.setupMainWindow()  
+        self.createActions()  
+        self.createMenu()  
+        self.show()  
+  
+    def setupMainWindow(self):  
+        pass  
+  
+    def createActions(self):  
+        """create app's menu actions"""  
+        # create action for File menu  
+        self.quit_act = QAction("&Quit")  
+        self.quit_act.setShortcut("Ctrl+Q")  
+        self.quit_act.triggered.connect(self.close)  
+  
+    def createMenu(self):  
+        """create app's menu bar"""  
+        self.menuBar().setNativeMenuBar(False)  
+  
+        # create file menu and add actions  
+        file_menu = self.menuBar().addMenu("File")  
+        file_menu.addAction(self.quit_act)  
+  
+  
+if __name__ == '__main__':  
+    app = QApplication(sys.argv)  
+    window = MainWindow()  
+    sys.exit(app.exec())
+```
+
+## <span style="color:rgb(255, 105, 97)">Image</span> 
+![](Pasted%20image%2020240809175341.png#center)
