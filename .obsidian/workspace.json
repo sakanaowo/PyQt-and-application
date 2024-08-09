@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/1. Tạo menu cơ bản.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/1. Tạo menu cơ bản.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/1. Tạo menu cơ bản.md",
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/1. Tạo menu cơ bản.md"
+                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "c4c3c43eb0623744",
   "lastOpenFiles": [
+    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/1. Tạo menu cơ bản.md",
     "Image/Pasted image 20240809175341.png",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
-    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/1. Tạo menu cơ bản.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/4. Xây dựng biểu mẫu.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
@@ -194,7 +194,6 @@
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ",
     "Image/Pasted image 20240806161422.png",
     "Pasted image 20240806161312.png",
-    "Image/Pasted image 20240806161340.png",
     "Application/Máy tính tuổi thông minh.md",
     "Application",
     "README.md",
