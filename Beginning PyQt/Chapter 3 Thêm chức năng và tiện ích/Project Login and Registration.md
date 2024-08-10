@@ -131,7 +131,8 @@ note:
 	- Tạo nút QPushButton "Sign up" để đăng ký
 	- Nếu nút "Sign up" được `clicked` thì kết nối tới `createNewUser`
 ### <span style="color:rgb(224, 187, 228)">slot</span> `clickLoginButton()`:
-Kiểm tra nếu tài khoản-mật khẩu có trong file users.txt
+Kiểm tra nếu tài khoản-mật khẩu có trong file users.txt.
+
 Nếu có, hiển thị một QMessage và đóng app. Nếu không, hiển thị cảnh báo và đóng app
 #### nửa trên:
 ```python
