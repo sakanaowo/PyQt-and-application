@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
+                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Project Login and Registration.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
+                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Project Login and Registration.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
+                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Project Login and Registration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md"
+                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Project Login and Registration.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "123487458cca7ed2",
   "lastOpenFiles": [
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
@@ -185,7 +186,6 @@
     "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Project Login and Registration.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
     "Image/Pasted image 20240714203221.png",
     "Image/Pasted image 20240714203212.png",
     "Image/Pasted image 20240714203143.png",

@@ -1,4 +1,5 @@
 Giao diện login cơ bản:
+
 ![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240719152526.png?raw=true)
 
 Giao diện đăng ký cơ bản:
