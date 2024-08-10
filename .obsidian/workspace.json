@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
+                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ea8c9e9c0908637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,19 +172,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f67917a709fb3ae",
+  "active": "8ea8c9e9c0908637",
   "lastOpenFiles": [
-    "Image/Pasted image 20240810161715.png",
-    "Image/Pasted image 20240810161703.png",
+    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
+    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
     "Image/Pasted image 20240810161659.png",
     "Image/Pasted image 20240810161644.png",
+    "Image/Pasted image 20240810161703.png",
+    "Image/Pasted image 20240810161715.png",
     "Image/Pasted image 20240810161632.png",
+    "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/1. Tạo menu cơ bản.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/Trình quản lý bố cục và absolute positioning.md",
-    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
-    "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
     "Image/Pasted image 20240810154605.png",
     "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
     "Image/Pasted image 20240809175341.png",
@@ -188,7 +201,6 @@
     "Image/Pasted image 20240714203221.png",
     "Image/Pasted image 20240714203212.png",
     "Image/Pasted image 20240714203143.png",
-    "Image/Pasted image 20240714203129.png",
     "Beginning PyQt/Chapter 2/2. User profile GUI.md",
     "Beginning PyQt/Chapter 1/4. First GUI.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Untitled/sự kiện.md",
