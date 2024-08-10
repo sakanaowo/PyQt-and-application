@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
+                "file": "Application/Project GUI notepad.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
+                "file": "Application/Project GUI notepad.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
+                "file": "Application/Project GUI notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md"
+                "file": "Application/Project GUI notepad.md"
               }
             }
           }
@@ -162,13 +162,13 @@
   },
   "active": "123487458cca7ed2",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/Project GUI notepad.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
+    "Application/Project GUI notepad.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
+    "Application/Project Login and Registration.md",
     "Image/Pasted image 20240810174838.png",
     "Image/Pasted image 20240810172225.png",
     "Image/Pasted image 20240810171918.png",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Project Login and Registration.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
