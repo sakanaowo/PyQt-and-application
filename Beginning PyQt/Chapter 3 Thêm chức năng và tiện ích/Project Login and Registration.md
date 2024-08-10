@@ -3,6 +3,7 @@ Giao diện login cơ bản:
 ![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240719152526.png?raw=true)
 
 Giao diện đăng ký cơ bản:
+
 ![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240719152644.png?raw=true)
 
 ### <span style="color:rgb(0, 176, 240)">Thiết kế GUI login và registration</span>
