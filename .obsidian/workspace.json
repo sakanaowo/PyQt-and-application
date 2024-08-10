@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "8ea8c9e9c0908637",
+            "id": "123487458cca7ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4c3c43eb0623744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
+                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
+                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
+                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md"
+                "file": "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md"
               }
             }
           }
@@ -172,10 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ea8c9e9c0908637",
+  "active": "123487458cca7ed2",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/1. Event handler and signals and slots.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
+    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
     "Image/Pasted image 20240810161659.png",
     "Image/Pasted image 20240810161644.png",
     "Image/Pasted image 20240810161703.png",
@@ -194,10 +186,6 @@
     "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Project Login and Registration.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/1. Event handler and signals and slots.md",
     "Image/Pasted image 20240714203221.png",
     "Image/Pasted image 20240714203212.png",
     "Image/Pasted image 20240714203143.png",
