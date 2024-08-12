@@ -211,3 +211,7 @@ if __name__ == '__main__':
     window = MainWindow()  
     sys.exit(app.exec())
 ```
+
+
+---
+[project](obsidian://open?vault=Pyqt%20and%20application&file=Application%2Fproject%20Photo%20Editor): [project Photo Editor](project%20Photo%20Editor.md)
