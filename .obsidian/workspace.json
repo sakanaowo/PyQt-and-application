@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application/Project GUI notepad.md",
+                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application/Project GUI notepad.md",
+                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application/Project GUI notepad.md",
+                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application/Project GUI notepad.md"
+                "file": "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "123487458cca7ed2",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
     "Application/Project GUI notepad.md",
+    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
+    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
     "Application/project Photo Editor.md",
     "Application/Project Login and Registration.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
@@ -161,7 +162,6 @@
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/1. Event handler and signals and slots.md",
-    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
     "Image/Pasted image 20240810161659.png",
     "Image/Pasted image 20240810161644.png",
     "Image/Pasted image 20240810161703.png",
