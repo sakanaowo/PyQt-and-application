@@ -1,25 +1,67 @@
-.theme-light .workspace {
-    backdrop-filter: brightness(1) blur(5px); /* filter for light mode */
-    background-color: transparent;
-}
-.theme-dark .workspace {
-    backdrop-filter: brightness(0.35) blur(5px); /* filter for dark mode */
-    background-color: transparent;
-}
-.horizontal-main-container { /* below is the background image. Change it to whatever you want */
-    background: url(https://i.pinimg.com/originals/02/f2/64/02f2649eaa7743a8e0a117c3e0a386ee.jpg);
-    background-size: cover;
-}
-.workspace-split.mod-root {
-    background-color: var(--background-primary);
+/*
+author: Chetachi
+source: https://discord.com/channels/686053708261228577/702656734631821413/893904428430680065
+*/
+.workspace {
+  background-image: url("https://imgur.com/6ShCP5E.png");
+  background-size: cover;
+  --background-primary: #20202040;
+  --background-primary-alt: #1a1a1a40;
+  --background-secondary: #16161640;
+  --background-secondary-alt: #00000040;
+  --background-modifier-border: #00000040;
+  --background-modifier-form-field: var(--background-primary-alt);
+  --svg-faint: var(--text-muted);
+  backdrop-filter: blur(8px); /* Applies blur to everything behind the element */
+  // filter: blur(8px); /* Applies blur to the element itself */
 }
 
-body { 
-/* the background-primary makes the main note pane completely transparent. 
-You can change it to be semi-transparent if you want. 
-I changed background-secondary and divider-width because it
-looks a bit cleaner in my opinion. You can delete those modifications if you want.*/
-    --background-primary: transparent;
-    --background-secondary: transparent;
-    --divider-width: 0px;
+
+.graph-controls {
+  border: none;
+}
+
+.graph-controls,
+.graph-controls.is-close,
+.theme-light .nav-action-button.is-active,
+.theme-dark .nav-action-button.is-active,
+.theme-light .workspace-tab-header.is-active,
+.theme-dark .workspace-tab-header.is-active {
+  box-shadow: none !important;
+}
+
+.workspace-ribbon,
+.workspace-split .workspace-tabs {
+  background: var(--background-primary);
+  background-color: var(--background-primary) !important;
+}
+
+.workspace-tabs .workspace-leaf {
+  background-color: unset;
+}
+
+div.view-header,
+.workspace-tab-header-container,
+.workspace-split.mod-root .view-content,
+.mod-root .CodeMirror-gutter.CodeMirror-linenumbers,
+.mod-root .CodeMirror-gutter.CodeMirror-foldgutter {
+  background-color: transparent !important;
+}
+
+/*
+body:not(.no-svg-replace) svg.right-triangle,
+body:not(.no-svg-replace)
+  .markdown-preview-view
+  .collapse-indicator
+  > svg.right-triangle {
+  background-color: var(--text-muted);
+}
+*/
+
+body:not(.no-svg-replace) svg.right-triangle,
+body:not(.no-svg-replace) span[title="Fold line"]:after,
+body:not(.no-svg-replace) span[title="Unfold line"]:after,
+body:not(.no-svg-replace) .CodeMirror-foldgutter-open:after,
+body:not(.no-svg-replace) .CodeMirror-foldgutter-folded:after {
+  color: var(--text-muted);
 }
