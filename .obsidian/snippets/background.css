@@ -2,8 +2,9 @@
 author: Chetachi
 source: https://discord.com/channels/686053708261228577/702656734631821413/893904428430680065
 */
+
 .workspace {
-  background-image: url("https://imgur.com/6ShCP5E.png");
+  background-image: url(https://i.imgur.com/6ShCP5E.png);
   background-size: cover;
   --background-primary: #20202040;
   --background-primary-alt: #1a1a1a40;
@@ -12,10 +13,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/89390
   --background-modifier-border: #00000040;
   --background-modifier-form-field: var(--background-primary-alt);
   --svg-faint: var(--text-muted);
-  backdrop-filter: blur(8px); /* Applies blur to everything behind the element */
-  // filter: blur(8px); /* Applies blur to the element itself */
 }
-
 
 .graph-controls {
   border: none;

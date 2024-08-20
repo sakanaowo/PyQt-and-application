@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
+                "file": "Beginning PyQt/Chapter 6 Style/Tổ chức widget với Container và Tab.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
+                "file": "Beginning PyQt/Chapter 6 Style/Tổ chức widget với Container và Tab.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
+                "file": "Beginning PyQt/Chapter 6 Style/Tổ chức widget với Container và Tab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md"
+                "file": "Beginning PyQt/Chapter 6 Style/Tổ chức widget với Container và Tab.md"
               }
             }
           }
@@ -148,15 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab407b28f0c952f7",
+  "active": "0f67917a709fb3ae",
   "lastOpenFiles": [
+    "Image/Pasted image 20240820131514.png",
+    "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
     "Beginning PyQt/Chapter 6 Style/0. Mở đầu chương.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
-    "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
     "Image/Pasted image 20240816163558.png",
     "Image/Pasted image 20240816155152.png",
     "Image/Pasted image 20240816155141.png",
-    "Beginning PyQt/Chapter 6 Style/Untitled.md",
+    "Beginning PyQt/Chapter 6 Style/Tổ chức widget với Container và Tab.md",
     "Image/Pasted image 20240815142259.png",
     "Image/Pasted image 20240814221812.png",
     "Beginning PyQt/Chapter 6 Style",
