@@ -1,13 +1,13 @@
 Tạo một GUI order pizza và đồ ăn kèm(ở đây là cánh gà) có giao diện như hình dưới
 
-![](Pasted%20image%2020240821215611.png)
+![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240821215611.png?raw=true)
 
-![](Pasted%20image%2020240821215622.png)
+![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240821215622.png?raw=true)
 
 
 ## <span style="color:rgb(255, 105, 97)">Phân tích mẫu</span>
 
-![](Pasted%20image%2020240821215719.png)
+![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240821215719.png?raw=true)
 
 Chia ra 2 phần là :
 - Giao diện đặt đồ gồm 2 tab bên trái:
@@ -37,10 +37,63 @@ from PyQt6.QtWidgets import QWidget, QApplication, QTabBar, QTabWidget, QLayout,
     QHBoxLayout, QGroupBox, QButtonGroup, QRadioButton, QPushButton  
   
 style_sheet = """  
-    QWidget {        background-color: #C92108;    }    QWidget#Tabs {        background-color: #FCEBCD;        border-radius: 4px;    }    QWidget#ImageBorder{        background-color: #FCF9F3;        border-width: 2px;        border-style: solid;        border-color: #FABB4C;    }    QWidget#Side{     
+    QWidget {        
+	    background-color: #C92108;    
+	}    
+	QWidget#Tabs {        
+		background-color: #FCEBCD;        
+		border-radius: 4px;    
+	}    
+	QWidget#ImageBorder{        
+		background-color: #FCF9F3;        
+		border-width: 2px;        
+		border-style: solid;        
+		border-color: #FABB4C;    
+	}    
+	QWidget#Side{     
         background-color: #EFD096;  
-        border-radius: 4px;    }    QLabel{        background-color: #EFD096;        border-width: 2px;        border-style: solid;        border-radius: 4px;        border-color: #EFD096;    }    QLabel#Header{        background-color: #EFD096;        border-width: 2px;        border-style: solid;        border-radius: 4px;        border-color: #EFD096;        padding-left: 10px;        color: #961A07;    }    QLabel#ImageInfo{        background-color: #FCF9F3;        border-radius: 4px;    }    QGroupBox{        background-color: #FCEBCD;        color: #961A07;    }    QRadioButton{        background-color: #FCF9F3;    }    QPushButton{        background-color: #C92108;        border-radius: 4px;        padding: 6px;        color: #FFFFFF;    }    QPushButton:pressed{        background-color: #C86354;        border-radius: 4px;        padding: 6px;        color: #DFD8D7;    }"""  
-  
+        border-radius: 4px;    
+    }    
+    QLabel{        
+	    background-color: #EFD096;        
+	    border-width: 2px;        
+	    border-style: solid;        
+	    border-radius: 4px;        
+	    border-color: #EFD096;    
+	}    
+	QLabel#Header{        
+		background-color: #EFD096;        
+		border-width: 2px;        
+		border-style: solid;        
+		border-radius: 4px;        
+		border-color: #EFD096;        
+		padding-left: 10px;        
+		color: #961A07;    
+	}    
+	QLabel#ImageInfo{        
+		background-color: #FCF9F3;        
+		border-radius: 4px;    
+	}    
+	QGroupBox{        
+		background-color: #FCEBCD;        
+		color: #961A07;    
+	}    
+	QRadioButton{        
+	background-color: #FCF9F3;    
+	}    
+	QPushButton{        
+		background-color: #C92108;        
+		border-radius: 4px;        
+		padding: 6px;        
+		color: #FFFFFF;    
+	}    
+	QPushButton:pressed{        
+		background-color: #C86354;        
+		border-radius: 4px;        
+		padding: 6px;        
+		color: #DFD8D7;    
+	}
+"""
   
 class MainWindow(QWidget):  
     def __init__(self):  
