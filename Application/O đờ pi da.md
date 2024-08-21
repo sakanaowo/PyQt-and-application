@@ -249,7 +249,7 @@ class MainWindow(QWidget):
         page1_vbox.addWidget(toppings_gbox)  
         page1_vbox.addStretch()  
         page1_vbox.addWidget(add_to_order_button1,
-					        alignment=Qt.AlignmentFlag.AlignRight)  
+					alignment=Qt.AlignmentFlag.AlignRight)  
   
         self.pizza_tab.setLayout(page1_vbox)  
   
@@ -305,7 +305,7 @@ class MainWindow(QWidget):
         page2_vbox.addWidget(description_box)  
         page2_vbox.addWidget(wings_gbox)  
         page2_vbox.addWidget(add_to_order_button2,
-					        alignment=Qt.AlignmentFlag.AlignRight)  
+					alignment=Qt.AlignmentFlag.AlignRight)  
         page2_vbox.addStretch()  
   
         self.wings_tab.setLayout(page2_vbox)  
@@ -341,8 +341,8 @@ class MainWindow(QWidget):
   
     def collectToppingInList(self):  
         toppings_list = [button.text() for i, button in
-				        enumerate(self.toppings_group.buttons()) 
-				        if button.isChecked()]  
+				    enumerate(self.toppings_group.buttons()) 
+				    if button.isChecked()]  
         return toppings_list  
   
   
