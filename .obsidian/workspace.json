@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application/O đờ pi da.md",
+                "file": "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application/O đờ pi da.md",
+                "file": "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application/O đờ pi da.md",
+                "file": "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application/O đờ pi da.md"
+                "file": "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
     "Application/O đờ pi da.md",
+    "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
     "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
     "Image/Pasted image 20240821215719.png",
