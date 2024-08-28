@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5110321044922,
-    "collapsed": true
+    "width": 290.5110321044922
   },
   "right": {
     "id": "5790026c8e0b140b",
@@ -150,7 +149,7 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Pasted image 20240828153313.png",
+    "Image/Pasted image 20240828153313.png",
     "Pasted image 20240828153257.png",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
