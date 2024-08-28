@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
+                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5110321044922
+    "width": 290.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5790026c8e0b140b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
+                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
+                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md"
+                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md"
               }
             }
           }
@@ -149,10 +150,22 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Application/O đờ pi da.md",
-    "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
-    "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
+    "Pasted image 20240828153313.png",
+    "Pasted image 20240828153257.png",
+    "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
+    "Image/Pasted image 20240828145814.png",
+    "Pasted image 20240828145806.png",
+    "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
+    "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
+    "Beginning PyQt/Chapter 7 Xử lý xự kiện/1. Xử lý sự kiện.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
+    "Beginning PyQt/Chapter 7 Xử lý xự kiện",
+    "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
+    "Application/O đờ pi da.md",
+    "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
     "Image/Pasted image 20240821215719.png",
     "Image/Pasted image 20240821215622.png",
     "Image/Pasted image 20240821215611.png",
@@ -162,17 +175,11 @@
     "Image/Pasted image 20240816163558.png",
     "Image/Pasted image 20240816155152.png",
     "Image/Pasted image 20240816155141.png",
-    "Image/Pasted image 20240815142259.png",
-    "Image/Pasted image 20240814221812.png",
     "Beginning PyQt/Chapter 6 Style",
     "Application/Project GUI notepad.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
     "Application/project Photo Editor.md",
     "Application/Project Login and Registration.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
-    "Image/Pasted image 20240810174838.png",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/1. Event handler and signals and slots.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/1. Tạo menu cơ bản.md",
@@ -181,10 +188,6 @@
     "Beginning PyQt/Chapter 4 Quản lý bố cục/Trình quản lý bố cục và absolute positioning.md",
     "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/4. Xây dựng biểu mẫu.md",
-    "Beginning PyQt/Chapter 4 Quản lý bố cục/3. Bố cục lưới.md",
-    "Beginning PyQt/Chapter 4 Quản lý bố cục/1. Bố cục ngang và dọc.md",
-    "Beginning PyQt/Chapter 2/2. User profile GUI.md",
-    "Beginning PyQt/Chapter 1/4. First GUI.md",
     "Untitled",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ",
     "Application",
@@ -194,7 +197,6 @@
     "Image",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Untitled",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích",
-    "Beginning PyQt/Chapter 2",
-    "Beginning PyQt/Chapter 1"
+    "Beginning PyQt/Chapter 2"
   ]
 }
