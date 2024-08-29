@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
+                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
+                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
+                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md"
+                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md"
               }
             }
           }
@@ -149,15 +149,16 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
+    "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
+    "Image/Pasted image 20240829223836.png",
+    "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",
     "Image/Pasted image 20240828153313.png",
     "Pasted image 20240828153257.png",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
     "Image/Pasted image 20240828145814.png",
     "Pasted image 20240828145806.png",
-    "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/1. Xử lý sự kiện.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
@@ -172,7 +173,6 @@
     "Image/Pasted image 20240820131514.png",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
     "Image/Pasted image 20240816163558.png",
-    "Image/Pasted image 20240816155152.png",
     "Beginning PyQt/Chapter 6 Style",
     "Application/Project GUI notepad.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
