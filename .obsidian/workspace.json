@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
+                "file": "Chapter 9 Clipboard/1. Lớp QClipboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5110321044922
+    "width": 290.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5790026c8e0b140b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
+                "file": "Chapter 9 Clipboard/1. Lớp QClipboard.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
+                "file": "Chapter 9 Clipboard/1. Lớp QClipboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md"
+                "file": "Chapter 9 Clipboard/1. Lớp QClipboard.md"
               }
             }
           }
@@ -149,8 +150,11 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
+    "Image/Pasted image 20240906125732.png",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
+    "Chapter 9 Clipboard/1. Lớp QClipboard.md",
+    "Chapter 9 Clipboard",
+    "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
     "Image/Pasted image 20240829223836.png",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",
     "Image/Pasted image 20240828153313.png",
@@ -185,8 +189,6 @@
     "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/Trình quản lý bố cục và absolute positioning.md",
     "Beginning PyQt/Chapter 2/1. The QLabel widget.md",
-    "Beginning PyQt/Chapter 4 Quản lý bố cục/4. Xây dựng biểu mẫu.md",
-    "Untitled",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ",
     "Application",
     "Beginning PyQt/Chapter 4 Quản lý bố cục",
