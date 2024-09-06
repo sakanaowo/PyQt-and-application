@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5110321044922,
-    "collapsed": true
+    "width": 290.5110321044922
   },
   "right": {
     "id": "5790026c8e0b140b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f67917a709fb3ae",
+  "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
+    "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
     "Image/Pasted image 20240906135503.png",
     "Image/Pasted image 20240906125732.png",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
-    "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
     "Beginning PyQt/Chapter 9 Clipboard",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
     "Image/Pasted image 20240829223836.png",
@@ -175,7 +174,6 @@
     "Image/Pasted image 20240821215622.png",
     "Image/Pasted image 20240821215611.png",
     "Beginning PyQt/Chapter 6 Style/0. Mở đầu chương.md",
-    "Image/Pasted image 20240820131514.png",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
     "Beginning PyQt/Chapter 6 Style",
     "Application/Project GUI notepad.md",
