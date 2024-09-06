@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md"
               }
             }
           }
@@ -147,9 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f67917a709fb3ae",
+  "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
+    "Beginning PyQt/Chapter 6 Style/0. Mở đầu chương.md",
     "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+    "README.md",
     "Images/Pasted image 20240906135503.png",
     "Images/Pasted image 20240906125732.png",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
@@ -173,7 +175,6 @@
     "Images/Pasted image 20240821215719.png",
     "Images/Pasted image 20240821215622.png",
     "Images/Pasted image 20240821215611.png",
-    "Beginning PyQt/Chapter 6 Style/0. Mở đầu chương.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
     "Beginning PyQt/Chapter 6 Style",
     "Application/Project GUI notepad.md",
