@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 9 Clipboard/1. Lớp QClipboard.md",
+                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 9 Clipboard/1. Lớp QClipboard.md",
+                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 9 Clipboard/1. Lớp QClipboard.md",
+                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 9 Clipboard/1. Lớp QClipboard.md"
+                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md"
               }
             }
           }
@@ -153,8 +153,8 @@
     "Image/Pasted image 20240906135503.png",
     "Image/Pasted image 20240906125732.png",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
-    "Chapter 9 Clipboard/1. Lớp QClipboard.md",
-    "Chapter 9 Clipboard",
+    "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+    "Beginning PyQt/Chapter 9 Clipboard",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
     "Image/Pasted image 20240829223836.png",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",
