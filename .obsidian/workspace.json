@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+                "file": "Application/Sticky note.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bab3dc97f6a7a2c6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Image/Pasted image 20240907152506.png"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+                "file": "Application/Sticky note.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+                "file": "Application/Sticky note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md"
+                "file": "Application/Sticky note.md"
               }
             }
           }
@@ -159,8 +149,8 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Image/Pasted image 20240907152506.png",
     "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+    "Image/Pasted image 20240907152506.png",
     "Application/Sticky note.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",

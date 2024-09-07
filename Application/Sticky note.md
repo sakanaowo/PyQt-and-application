@@ -1,6 +1,6 @@
 project tạo sticky note GUI cho phép mở nhiều cửa sổ để note độc lập, có thể thay đổi màu sắc và paste nội dung từ clipboard
 
-![](Pasted%20image%2020240907152506.png)
+![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240907152506.png?raw=true)
 
 sticky note là một dạng SDI - single document interface (giao diện tài liệu đơn)
 
