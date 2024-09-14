@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 10 Presenting data/2. Drag and Drop.md",
+                "file": "Beginning PyQt/Chapter 10 Presenting data/QTable.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 10 Presenting data/2. Drag and Drop.md",
+                "file": "Beginning PyQt/Chapter 10 Presenting data/QTable.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 10 Presenting data/2. Drag and Drop.md",
+                "file": "Beginning PyQt/Chapter 10 Presenting data/QTable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 10 Presenting data/2. Drag and Drop.md"
+                "file": "Beginning PyQt/Chapter 10 Presenting data/QTable.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
+    "Beginning PyQt/Chapter 10 Presenting data/2. Drag and Drop.md",
+    "Beginning PyQt/Chapter 10 Presenting data/QTable.md",
     "Image/Pasted image 20240914132005.png",
     "Image/Pasted image 20240914142717.png",
-    "Beginning PyQt/Chapter 10 Presenting data/2. Drag and Drop.md",
     "Image/Pasted image 20240914175506.png",
     "Beginning PyQt/Chapter 10 Presenting data/1. QListWidget.md",
     "Beginning PyQt/Chapter 10 Presenting data/0. Quickly handling data.md",
