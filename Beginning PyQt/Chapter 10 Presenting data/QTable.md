@@ -1,6 +1,6 @@
 ~ excel ?
 
-![](Pasted%20image%2020240914232941.png)
+![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240914232941.png?raw=true)
 
 ## <span style="color:rgb(255, 105, 97)">Cài đặt</span> 
 ```python
