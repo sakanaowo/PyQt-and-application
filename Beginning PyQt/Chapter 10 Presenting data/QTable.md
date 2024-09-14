@@ -1,5 +1,7 @@
 ~ excel ?
 
+![](Pasted%20image%2020240914232941.png)
+
 ## <span style="color:rgb(255, 105, 97)">Cài đặt</span> 
 ```python
 import sys  
