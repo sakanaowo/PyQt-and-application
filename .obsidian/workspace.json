@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application/Sticky note.md",
+                "file": "Beginning PyQt/Chapter 10 Presenting data/1. QListWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application/Sticky note.md",
+                "file": "Beginning PyQt/Chapter 10 Presenting data/1. QListWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application/Sticky note.md",
+                "file": "Beginning PyQt/Chapter 10 Presenting data/1. QListWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application/Sticky note.md"
+                "file": "Beginning PyQt/Chapter 10 Presenting data/1. QListWidget.md"
               }
             }
           }
@@ -149,9 +149,13 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
+    "Image/Pasted image 20240914132005.png",
+    "Beginning PyQt/Chapter 10 Presenting data/0. Quickly handling data.md",
+    "Beginning PyQt/Chapter 10 Presenting data/1. QListWidget.md",
+    "Application/Sticky note.md",
+    "Beginning PyQt/Chapter 10 Presenting data",
     "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
     "Image/Pasted image 20240907152506.png",
-    "Application/Sticky note.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",
     "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
@@ -185,8 +189,6 @@
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/1. Event handler and signals and slots.md",
     "Beginning PyQt/Chapter 4 Quản lý bố cục/5. Quản lý page.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/1. Tạo menu cơ bản.md",
-    "Beginning PyQt/Chapter 4 Quản lý bố cục/2. Bố cục lồng nhau.md",
-    "Beginning PyQt/Chapter 4 Quản lý bố cục/6. Quản lý không gian.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ",
     "Application",
     "Beginning PyQt/Chapter 4 Quản lý bố cục",
@@ -194,7 +196,6 @@
     "Untitled.canvas",
     "Image",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Untitled",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích",
-    "Beginning PyQt/Chapter 2"
+    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích"
   ]
 }
