@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 10 Presenting data/QTable.md",
+                "file": "Beginning PyQt/Chapter 10 Presenting data/4. QTreeWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 10 Presenting data/QTable.md",
+                "file": "Beginning PyQt/Chapter 10 Presenting data/4. QTreeWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 10 Presenting data/QTable.md",
+                "file": "Beginning PyQt/Chapter 10 Presenting data/4. QTreeWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 10 Presenting data/QTable.md"
+                "file": "Beginning PyQt/Chapter 10 Presenting data/4. QTreeWidget.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
+    "Image/Pasted image 20240915204620.png",
+    "Beginning PyQt/Chapter 10 Presenting data/3. QTable.md",
+    "Beginning PyQt/Chapter 10 Presenting data/4. QTreeWidget.md",
     "Image/Pasted image 20240914232941.png",
     "Beginning PyQt/Chapter 10 Presenting data/2. Drag and Drop.md",
-    "Beginning PyQt/Chapter 10 Presenting data/QTable.md",
     "Image/Pasted image 20240914132005.png",
     "Image/Pasted image 20240914142717.png",
     "Image/Pasted image 20240914175506.png",
@@ -176,7 +178,6 @@
     "Pasted image 20240828153257.png",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
-    "Image/Pasted image 20240828145814.png",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/1. Xử lý sự kiện.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
@@ -188,7 +189,6 @@
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ/2. Biểu tượng và lớp Icon.md",
     "Application/project Photo Editor.md",
     "Application/Project Login and Registration.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/1. Event handler and signals and slots.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ",
     "Application",
     "Beginning PyQt/Chapter 4 Quản lý bố cục",
