@@ -9,7 +9,7 @@ Tạo một GUI order pizza và đồ ăn kèm(ở đây là cánh gà) có giao
 
 ![](https://github.com/sakanaowo/PyQt-and-application/blob/main/Image/Pasted%20image%2020240821215719.png?raw=true)
 
-Chia ra 2 phần là :
+Chia ra 2 phần:
 - Giao diện đặt đồ gồm 2 tab bên trái:
 	- Tab1 gồm 3 phần sử dụng QVBoxLayout:
 		- Hiển thị mẫu, thông tin về bánh pizza
