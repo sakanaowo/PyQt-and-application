@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md",
+                "file": "Application/Project 12.1 RGB slider.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5110321044922
+    "width": 273.5110321044922
   },
   "right": {
     "id": "5790026c8e0b140b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md",
+                "file": "Application/Project 12.1 RGB slider.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md",
+                "file": "Application/Project 12.1 RGB slider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md"
+                "file": "Application/Project 12.1 RGB slider.md"
               }
             }
           }
@@ -149,9 +149,14 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Image/Pasted image 20240928110218.png",
+    "Beginning PyQt/Chapter 12 Custom widget/Untitled.md",
+    "Application/Project 12.1 RGB slider.md",
     "Beginning PyQt/Chapter 11 Graphic and animation/2. Tạo hoạt ảnh với QPropertyAnimation.md",
     "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md",
+    "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
+    "Image/Pasted image 20240928151610.png",
+    "Beginning PyQt/Chapter 12 Custom widget",
+    "Image/Pasted image 20240928110218.png",
     "Application/Project Painter GUI.md",
     "Beginning PyQt/Chapter 11 Graphic and animation/0. Mở đầu.md",
     "Image/Pasted image 20240922224011.png",
@@ -168,13 +173,10 @@
     "Beginning PyQt/Chapter 10 Presenting data/3. QTable.md",
     "Image/Pasted image 20240914232941.png",
     "Beginning PyQt/Chapter 10 Presenting data/2. Drag and Drop.md",
-    "Image/Pasted image 20240914132005.png",
-    "Image/Pasted image 20240914142717.png",
     "Beginning PyQt/Chapter 10 Presenting data/1. QListWidget.md",
     "Beginning PyQt/Chapter 10 Presenting data/0. Quickly handling data.md",
     "Application/Sticky note.md",
     "Beginning PyQt/Chapter 10 Presenting data",
-    "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/4. Tạo tín hiệu riêng.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",
     "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
@@ -186,8 +188,6 @@
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/1. Xử lý sự kiện.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện",
     "Beginning PyQt/Chapter 6 Style",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ",
@@ -195,7 +195,6 @@
     "Beginning PyQt/Chapter 4 Quản lý bố cục",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Image",
-    "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/Untitled"
+    "Image"
   ]
 }
