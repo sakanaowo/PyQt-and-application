@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 11 Graphic and animation/2. Tạo hoạt ảnh với QPropertyAnimation.md",
+                "file": "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 11 Graphic and animation/2. Tạo hoạt ảnh với QPropertyAnimation.md",
+                "file": "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 11 Graphic and animation/2. Tạo hoạt ảnh với QPropertyAnimation.md",
+                "file": "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 11 Graphic and animation/2. Tạo hoạt ảnh với QPropertyAnimation.md"
+                "file": "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Application/Project Painter GUI.md",
+    "Image/Pasted image 20240928110218.png",
     "Beginning PyQt/Chapter 11 Graphic and animation/2. Tạo hoạt ảnh với QPropertyAnimation.md",
+    "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md",
+    "Application/Project Painter GUI.md",
     "Beginning PyQt/Chapter 11 Graphic and animation/0. Mở đầu.md",
     "Image/Pasted image 20240922224011.png",
     "Image/Pasted image 20240716164938.png",
@@ -187,9 +189,7 @@
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/4. QCheckBox.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/5. QMessageBox.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện",
-    "Beginning PyQt/Chapter 5 Menu, thanh công cụ/3. Các lớp hội thoại được tích hợp sẵn.md",
     "Beginning PyQt/Chapter 6 Style",
-    "Application/Project GUI notepad.md",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ",
     "Application",
     "Beginning PyQt/Chapter 4 Quản lý bố cục",
