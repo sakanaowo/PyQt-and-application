@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application/Project 12.1 RGB slider.md",
+                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application/Project 12.1 RGB slider.md",
+                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application/Project 12.1 RGB slider.md",
+                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application/Project 12.1 RGB slider.md"
+                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 12 Custom widget/Untitled.md",
+    "Beginning PyQt/Chapter 13 QtQuick/1. Outline.md",
+    "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
     "Application/Project 12.1 RGB slider.md",
+    "Beginning PyQt/Chapter 13 QtQuick",
+    "Beginning PyQt/Chapter 12 Custom widget/Untitled.md",
     "Beginning PyQt/Chapter 11 Graphic and animation/2. Tạo hoạt ảnh với QPropertyAnimation.md",
     "Beginning PyQt/Chapter 11 Graphic and animation/3. Animating widget.md",
     "Beginning PyQt/Chapter 9 Clipboard/1. Lớp QClipboard.md",
@@ -187,14 +190,12 @@
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/3. Xử lý thao tác chuột.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/3. QLineEdit.md",
     "Beginning PyQt/Chapter 3 Thêm chức năng và tiện ích/2. QButton.md",
-    "Beginning PyQt/Chapter 7 Xử lý xự kiện/1. Xử lý sự kiện.md",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện",
     "Beginning PyQt/Chapter 6 Style",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ",
     "Application",
     "Beginning PyQt/Chapter 4 Quản lý bố cục",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Image"
+    "Untitled.canvas"
   ]
 }
