@@ -113,3 +113,4 @@ NOTE:
 - `prepare()` chuẩn bị truy vấn để thực thi, được chuẩn bị thành công thì các giá trị có thể được liên kết với các _field_ bằng `addBindValue()`
 ---
 
+## 

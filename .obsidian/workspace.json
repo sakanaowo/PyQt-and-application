@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 14 Handling Database/Project 14.1 Account Management GUI.md",
+                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 14 Handling Database/Project 14.1 Account Management GUI.md",
+                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 14 Handling Database/Project 14.1 Account Management GUI.md",
+                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 14 Handling Database/Project 14.1 Account Management GUI.md"
+                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Pasted image 20241006151459.png",
-    "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
     "Beginning PyQt/Chapter 14 Handling Database/Project 14.1 Account Management GUI.md",
+    "Image/Pasted image 20241006151459.png",
+    "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
     "Beginning PyQt/Chapter 13 QtQuick/3. Using transformations to animate object.md",
     "Beginning PyQt/Chapter 14 Handling Database/1. Introduction to Model,View Programming.md",
     "Beginning PyQt/Chapter 10 Presenting data/1. QListWidget.md",
@@ -178,7 +178,6 @@
     "Image/Pasted image 20240922224011.png",
     "Image/Pasted image 20240716164938.png",
     "Image/Pasted image 20240716154429.png",
-    "Image/Pasted image 20240716162759.png",
     "Beginning PyQt/Chapter 11 Graphic and animation",
     "Application/Project Login and Registration.md",
     "Application/O đờ pi da.md",
