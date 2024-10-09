@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
+                "file": "Beginning PyQt/Chapter 15 Managing Thread/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
+                "file": "Beginning PyQt/Chapter 15 Managing Thread/Intro.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
+                "file": "Beginning PyQt/Chapter 15 Managing Thread/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md"
+                "file": "Beginning PyQt/Chapter 15 Managing Thread/Intro.md"
               }
             }
           }
@@ -150,11 +150,14 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
+    "Beginning PyQt/Chapter 15 Managing Thread/project File renaming GUI.md",
+    "Beginning PyQt/Chapter 15 Managing Thread/Intro.md",
     "Beginning PyQt/Chapter 14 Handling Database/Project 14.1 Account Management GUI.md",
-    "Image/Pasted image 20241006151459.png",
+    "Beginning PyQt/Chapter 15 Managing Thread",
+    "Beginning PyQt/Chapter 14 Handling Database/1. Introduction to Model,View Programming.md",
     "Beginning PyQt/Chapter 13 QtQuick/2. Building and Running QML.md",
     "Beginning PyQt/Chapter 13 QtQuick/3. Using transformations to animate object.md",
-    "Beginning PyQt/Chapter 14 Handling Database/1. Introduction to Model,View Programming.md",
+    "Image/Pasted image 20241006151459.png",
     "Beginning PyQt/Chapter 10 Presenting data/1. QListWidget.md",
     "Beginning PyQt/Chapter 10 Presenting data/4. QTreeWidget.md",
     "Beginning PyQt/Chapter 10 Presenting data/3. QTable.md",
@@ -189,12 +192,10 @@
     "Beginning PyQt/Chapter 7 Xử lý xự kiện/2. Xử lý Key.md",
     "Beginning PyQt/Chapter 6 Style/1. Chỉnh sửa giao diện widget.md",
     "Beginning PyQt/Chapter 6 Style/2. Tổ chức widget với Container và Tab.md",
-    "Beginning PyQt/Chapter 6 Style/0. Mở đầu chương.md",
     "Beginning PyQt/Chapter 9 Clipboard",
     "Beginning PyQt/Chapter 7 Xử lý xự kiện",
     "Beginning PyQt/Chapter 6 Style",
     "Beginning PyQt/Chapter 5 Menu, thanh công cụ",
-    "Application",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
