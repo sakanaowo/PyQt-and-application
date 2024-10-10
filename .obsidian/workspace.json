@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning PyQt/Chapter 15 Managing Thread/Intro.md",
+                "file": "Beginning PyQt/Chapter 15 Managing Thread/project File renaming GUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginning PyQt/Chapter 15 Managing Thread/Intro.md",
+                "file": "Beginning PyQt/Chapter 15 Managing Thread/project File renaming GUI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginning PyQt/Chapter 15 Managing Thread/Intro.md",
+                "file": "Beginning PyQt/Chapter 15 Managing Thread/project File renaming GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginning PyQt/Chapter 15 Managing Thread/Intro.md"
+                "file": "Beginning PyQt/Chapter 15 Managing Thread/project File renaming GUI.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "ab407b28f0c952f7",
   "lastOpenFiles": [
-    "Beginning PyQt/Chapter 15 Managing Thread/project File renaming GUI.md",
     "Beginning PyQt/Chapter 15 Managing Thread/Intro.md",
+    "Beginning PyQt/Chapter 15 Managing Thread/project File renaming GUI.md",
     "Beginning PyQt/Chapter 14 Handling Database/Project 14.1 Account Management GUI.md",
     "Beginning PyQt/Chapter 15 Managing Thread",
     "Beginning PyQt/Chapter 14 Handling Database/1. Introduction to Model,View Programming.md",
